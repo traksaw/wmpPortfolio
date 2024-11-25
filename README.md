@@ -2,8 +2,15 @@
 
 Welcome to my portfolio repository! This repository showcases my journey as a **Full-Stack Software Engineer**, highlighting projects that demonstrate my skills in **MongoDB, Express.js, Node.js, CSS, HTML, JavaScript**, and more.
 
+---
+
+<img width="1512" alt="Screenshot 2024-11-24 at 8 07 07 PM" src="https://github.com/user-attachments/assets/7b12c62d-4b56-4cfc-9f9c-3082e4cba7fa">
+
+
+---
+
 ## 🖥️ Live Portfolio Website
-Check out my portfolio live: [Waskar Miguel Paulino Portfolio]( )
+Check out my portfolio live: [Waskar Miguel Paulino Portfolio](https://waskarmiguelpaulino.netlify.app/)
 
 ---
 
